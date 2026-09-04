@@ -40,7 +40,7 @@ function Item({ item, brand }) {
             poster="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
           />
         ) : (
-          <Carousel images={item.media} alt={`${brand} 샤오홍수 콘텐츠`} />
+          <Carousel images={item.media} alt={`${brand} 샤오홍슈 콘텐츠`} />
         )}
       </div>
       <div className="body">

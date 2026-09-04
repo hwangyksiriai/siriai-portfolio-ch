@@ -17,14 +17,14 @@ export default function Home() {
           <span className="cn">小红书</span>
         </h1>
         <p className="lead">
-          중국 진출을 준비하는 한국 브랜드를 위해, 샤오홍수 현지 크리에이터 시딩을 설계하고
+          중국 진출을 준비하는 한국 브랜드를 위해, 샤오홍슈 현지 크리에이터 시딩을 설계하고
           운영합니다. 아래는 SIRIAI가 실제로 발행한 캠페인 콘텐츠입니다.
         </p>
         <div className="meta">
           <span className="chip">숏폼 · 피드</span>
           <span className="chip">오프라인 매장 방문</span>
           <span className="chip">현지 크리에이터 섭외</span>
-          <span className="chip">중문 카피 기획</span>
+          <span className="chip">중국어 카피 기획</span>
         </div>
       </header>
 

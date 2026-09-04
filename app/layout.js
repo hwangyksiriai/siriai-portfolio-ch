@@ -1,9 +1,9 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'SIRIAI × 小红书 — 샤오홍수 시딩 포트폴리오',
+  title: 'SIRIAI × 小红书 — 샤오홍슈 시딩 포트폴리오',
   description:
-    '한국 브랜드의 중국 시장 진출을 위한 샤오홍수(小红书) 인플루언서 시딩. SIRIAI가 실제로 발행한 콘텐츠를 확인하세요.',
+    '한국 브랜드의 중국 시장 진출을 위한 샤오홍슈(小红书) 인플루언서 시딩. SIRIAI가 실제로 발행한 콘텐츠를 확인하세요.',
 };
 
 export default function RootLayout({ children }) {
